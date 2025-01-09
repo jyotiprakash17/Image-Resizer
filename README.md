@@ -1,6 +1,6 @@
 # **Image Resizer 📸✨**
 
-It is a simple and efficient web app that allows you to quickly resize your images to your desired dimensions. Whether you're looking to resize an image for a profile picture, social media, or just need a quick resize, ResizeMaster makes it easy and fast. 🖼️💨
+It is a simple and efficient web app that allows you to quickly resize your images to your desired dimensions. Whether you're looking to resize an image for a profile picture, social media, or just need a quick resize, ResizeMaster makes it easy and fast. 
 
 ---
 
